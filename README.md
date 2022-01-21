@@ -16,5 +16,10 @@ A Colorado Board of Elections employee gave me the task of completing an electio
    - Raymon Anthony Doane with 3.1% (11,606) votes
 Winner of the election: Diana Degette with 73.8% of the votes and a vote count of 272,892!
 
-##Election Audit Summary
+## Election Audit Summary
 Since this script takes from an excel file, the only thing you would have to do to modify it is change the pathing to a different excel file. The point of this script was to take information from the file and put it into a visual format so we could read it. While one modification would be chosing a different text file with similar formatting, the other would be to change in which columns the text reads candidate and county names if a file had similar but slightly different formatting. 
+
+
+# Terminal Photo
+
+![Votes counted Terminal](https://user-images.githubusercontent.com/95777297/150481889-a23d573c-ed65-4b58-873b-ee4783695871.png)
